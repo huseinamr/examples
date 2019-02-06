@@ -1,3 +1,9 @@
+/*
+Reference:
+https://www.tutorialspoint.com/cprogramming/c_constants.htm
+(and a stackoverflow thread, I can't find the link)
+*/
+
 #include <stdio.h>
 
 int main() {
